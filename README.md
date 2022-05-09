@@ -3,7 +3,7 @@
 
 I'm a Software Engineer @ 100Devs, currently focused on Full Stack Web Development. Born in Trinidad & Tobago, grew up in New York City, and currently in Central Delaware.
 
-I take great pride in my persistence, diligence, and punctuality. Prior experience in healthcare shapes my unique perspective, the way I approach problem-solving as a developer.
+I take great pride in my persistence, diligence, and initiative. Prior experience in healthcare shapes my unique perspective, the way I approach problem-solving as a developer.
 
 I'm a curious person by nature, with a lifelong passion for learning and self-improvement. My favorite toy as a kid was a set of lego blocks, and it cultivated this fire in me to take things apart, figure out what makes it tick, and imagine new ways to recombine the pieces — the old lego blocks may be gone, but the still fire burns strong thanks to code...
 
