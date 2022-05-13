@@ -20,7 +20,7 @@ Check out [my website](https://isimon.dev) to get to know more about me!
       <h3 align="center">Jazzie's Art</h3>
       <br />
         <a target="_blank" href="https://jazziesart.netlify.app/">
-          <img src="images/img4.png" width="100%" alt="Jazzie's Art"/>
+          <img src="images/img5.png" width="100%" alt="Jazzie's Art"/>
         </a>
       <br />
         <p align="center">
