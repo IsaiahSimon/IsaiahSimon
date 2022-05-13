@@ -114,11 +114,11 @@ Check out [my website](https://isimon.dev) to get to know more about me!
 <h1 align="center">GitHub Stats</h1>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaiahsimon&show_icons=true&locale=en&layout=compact" alt="isaiahsimon" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaiahsimon&theme=gotham&show_icons=true&locale=en&layout=demo" alt="isaiahsimon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaiahsimon&show_icons=true&locale=en" alt="isaiahsimon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaiahsimon&theme=gotham&show_icons=true&locale=en" alt="isaiahsimon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaiahsimon&" alt="isaiahsimon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaiahsimon&theme=gotham&" alt="isaiahsimon" /></p>
 </div>
 
 ---
