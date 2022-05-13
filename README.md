@@ -1,16 +1,14 @@
 <img src="https://i.imgur.com/Fvt1uuZ.png" width="100%">
 
-<p align="center">
-  <a href="https://linktree.com/isimondev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=MY LINKS&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
+<p align="center"><img src="https://www.codewars.com/users/Prophecy101/badges/large"></p>
 
-</p>
+
 
 I'm a Software Engineer with a background in Pharmaceutical Technology, Chemistry, Finance and Business Management. My experience in healthcare motivates me to use technology as a positive tool for change.
 
-
-Check out [my website](https://isimon.dev) to get to know more about me!
+Check out <a href="https://linktree.com/isimondev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=MY LINKS&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a> to find out more about me! <br>
 
 <h1 align="center">Latest Projects...</h1>
 
