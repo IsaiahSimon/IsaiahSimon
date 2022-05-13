@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Fvt1uuZ.png" width="100%">
 
-<p align="center"><img src="https://www.codewars.com/users/iSimonDev/badges/small"></p>
+<p align="center"><a href="https://www.codewars.com/users/iSimonDev"><img src="https://www.codewars.com/users/iSimonDev/badges/small"></a></p>
 
 
 
