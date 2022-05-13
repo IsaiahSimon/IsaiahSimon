@@ -124,7 +124,7 @@ Check out [my website](https://isimon.dev) to get to know more about me!
 ---
 
 <h1 align="center">Writing</h1>
-I've developed a consistent habit of writing down my daily notes and thoughts in a "devlog". It allows me to reflect on some of the challenges/obstacles I encounter while coding, and the steps I took to resolve them. I'll be sharing some of these experiences on my new blog, <a href="https://www.simonara.com" target="_blank">Simonara</a> and you can check it over at hashnode.
+I've developed a consistent habit of writing down my daily notes and thoughts in a "devlog". It allows me to reflect on some of the challenges/obstacles I encounter while coding, and the steps I took to resolve them. I'll be sharing some of these experiences on my new blog, <a href="https://www.simonara.com" target="_blank">Simonara</a> and you can check it out over at hashnode!
 
 ---
 
