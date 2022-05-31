@@ -29,7 +29,7 @@ Check out <a href="https://linktree.com/isimondev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2ee4bb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-      <p><strong>HTML/CSS/JS, Bootstrap, Node, Express, EJS, Lodash</strong></p>
+      <p><strong>HTML/CSS/JavaScript, Bootstrap, Node.js, Express.js, EJS, Lodash</strong></p>
       <p>A minimalistic personal blog</p>
     </td>
     <!-- Newsletter Signup -->
@@ -49,7 +49,7 @@ Check out <a href="https://linktree.com/isimondev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2ee4bb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML/CSS/JS, Bootstrap, Express, Heroku</strong></p>
+        <p><strong>HTML/CSS/JavaScript, Bootstrap, Node.js, Express.js, Heroku</strong></p>
         <p>A newsletter signup app deployed on Heroku with Mailchimp API integration.</p>
     </td>
   </tr>
@@ -71,7 +71,7 @@ Check out <a href="https://linktree.com/isimondev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2ee4bb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML/CSS/JS</strong></p>
+        <p><strong>HTML/CSS/JavaScript</strong></p>
         <p>An efficient and responsive website with a focus on displaying digital artwork and character designs.</p>
     </td>
     <!-- Make it Mirsada -->
@@ -88,7 +88,7 @@ Check out <a href="https://linktree.com/isimondev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2ee4bb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML/CSS/JS</strong></p>
+        <p><strong>HTML/CSS/JavaScript</strong></p>
         <p>A beautiful responsive website that strikes a balance between being aesthetically appealing and showcasing the artist’s work.</p>
     </td>
   </tr>
@@ -108,7 +108,7 @@ Check out <a href="https://linktree.com/isimondev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2ee4bb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML/CSS/JS</strong></p>
+        <p><strong>HTML/CSS/JavaScript</strong></p>
         <p>Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <!-- Boreddd -->
@@ -128,7 +128,7 @@ Check out <a href="https://linktree.com/isimondev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2ee4bb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML/CSS/JS</strong></p>
+        <p><strong>HTML/CSS/JavaScript</strong></p>
         <p>A random activity generator that gives you fun and interesting things to do when you're bored!</p>
     </td>
   </tr>
