@@ -15,21 +15,22 @@ Check out <a href="https://linktree.com/isimondev" target="_blank">
     <tr>
     <!-- Blog Website -->
     <td width="50%" valign="top">
-      <h3 align="center">Blog Website (Coming Soon)!</h3>
+      <h3 align="center">Austere Blog</h3>
       <br />
         <a target="_blank" href="#">
-          <img src="#" width="100%" alt="blog website"/>
+          <img src="./images/gif-austere-journal.gif" width="100%" alt="austere blog"/>
         </a>
       <br />
         <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/IsaiahSimon/austere-blog" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=2ee4bb&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2ee4bb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript & ???</strong> Coming soon!</p>
+      <p><strong>HTML/CSS/JS, Bootstrap, Node, Express, EJS, Lodash</strong></p>
+      <p>A minimalistic personal blog</p>
     </td>
     <!-- Newsletter Signup -->
     <td width="50%" valign="top">
@@ -48,7 +49,8 @@ Check out <a href="https://linktree.com/isimondev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2ee4bb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, Bootstrap, Express, Heroku</strong> - A newsletter signup app deployed on Heroku with Mailchimp API integration.</p>
+        <p><strong>HTML/CSS/JS, Bootstrap, Express, Heroku</strong></p>
+        <p>A newsletter signup app deployed on Heroku with Mailchimp API integration.</p>
     </td>
   </tr>
   <!-- Second Row -->
@@ -69,7 +71,8 @@ Check out <a href="https://linktree.com/isimondev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2ee4bb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, SASS, & Javascript</strong> - An efficient and responsive website with a focus on showcasing digital artwork and creations.</p>
+        <p><strong>HTML/CSS/JS</strong></p>
+        <p>An efficient and responsive website with a focus on displaying digital artwork and character designs.</p>
     </td>
     <!-- Make it Mirsada -->
     <td width="50%" valign="top">
@@ -85,7 +88,8 @@ Check out <a href="https://linktree.com/isimondev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2ee4bb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, SASS & Javascript</strong> - A beautiful responsive website that strikes a balance between being aesthetically appealing and also effective at marketing the artist’s work.</p>
+        <p><strong>HTML/CSS/JS</strong></p>
+        <p>A beautiful responsive website that strikes a balance between being aesthetically appealing and showcasing the artist’s work.</p>
     </td>
   </tr>
   <!-- Third Row -->
@@ -104,7 +108,8 @@ Check out <a href="https://linktree.com/isimondev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2ee4bb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, SASS, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML/CSS/JS</strong></p>
+        <p>Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <!-- Boreddd -->
     <td width="50%" valign="top">
@@ -123,7 +128,8 @@ Check out <a href="https://linktree.com/isimondev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2ee4bb&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, SASS & Javascript</strong> - A random activity generator that gives you fun and interesting things to do when you're bored!</p>
+        <p><strong>HTML/CSS/JS</strong></p>
+        <p>A random activity generator that gives you fun and interesting things to do when you're bored!</p>
     </td>
   </tr>
 
