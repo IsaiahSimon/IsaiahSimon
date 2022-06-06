@@ -9,9 +9,7 @@
   My prior experiences motivate me to use technology as a positive tool for change.
 
   You can find out more about me here... <br>
-  <a href="https://linktree.com/isimondev" target="_blank">
-    <img src="https://img.shields.io/badge/My Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
+
 <p>
 
 <h1 align="center">Latest Projects...</h1>
@@ -23,7 +21,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Austere Blog</h3>
       <br />
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://austere-blog.herokuapp.com/">
         <img src="./images/gif-austere-journal.gif" width="100%" alt="austere blog" />
       </a>
       <br />
