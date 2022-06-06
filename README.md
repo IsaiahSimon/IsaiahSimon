@@ -10,7 +10,8 @@
 
   You can find out more about me here... <br>
   <a href="https://linktree.com/isimondev" target="_blank">
-    <img src="	https://img.shields.io/badge/My Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/My Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
 <p>
 
 <h1 align="center">Latest Projects...</h1>
@@ -68,7 +69,6 @@
       </a>
       <br />
       <p align="center">
-        </a>
         <a href="https://github.com/IsaiahSimon/newsletter-signup" target="_blank">
           <img src="https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
@@ -194,7 +194,8 @@
 
 <p align="center">
   <a href="https://linktree.com/isimondev" target="_blank">
-    <img src="	https://img.shields.io/badge/My Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/My Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
 </p>
 
 ---
