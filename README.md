@@ -164,8 +164,7 @@
       <p>&nbsp;<img align="center"
           src="https://github-readme-stats.vercel.app/api?username=isaiahsimon&theme=gotham&show_icons=true&locale=en"
           alt="isaiahsimon" /></p>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=isaiahsimon&theme=gotham&"
-          alt="isaiahsimon" /></p>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaiahsimon&theme=gotham&%22alt=%22isaiahsimon" /></p>
     </td>
   </tr>
 </table>
