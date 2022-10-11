@@ -2,7 +2,7 @@
 
 
 <p>
-  Hi 👋
+  Hi 👋,
 
   I'm Isaiah Simon, and I'm a Software Engineer with demonstrated experience creating and implementing successful frontend and backend web applications and API's. Skilled in solving problems with HTML, CSS, JavaScript, Node, Express framework, and React. <br>
   
