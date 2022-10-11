@@ -4,11 +4,9 @@
 <p>
   Hi 👋
 
-  I'm Isaiah Simon, and I'm a Software Engineer with a background in pharmaceutical technology, finance and business.
-
-  My prior experiences motivate me to use technology as a positive tool for change.
-
-  You can find out more about me here... <br>
+  I'm Isaiah Simon, and I'm a Software Engineer with demonstrated experience creating and implementing successful frontend and backend web applications and API's. Skilled in solving problems with HTML, CSS, JavaScript, Node, Express framework, and React. <br>
+  
+ I'm currently targeting backend and full stack roles on diverse teams of passionate engineers.
 
 <p>
 
