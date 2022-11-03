@@ -1,14 +1,11 @@
-<img src="/images/banner_full.gif" width="100%">
-
+<img src="https://github.com/IsaiahSimon/IsaiahSimon/blob/main/images/banner_full.gif" width="100%">
 
 <p>
-  Hi 👋
+  Hi 👋,
 
-  I'm Isaiah Simon, and I'm a Software Engineer with a background in pharmaceutical technology, finance and business.
+  I'm Isaiah Simon, and I'm a Software Engineer with demonstrated experience creating and implementing successful frontend and backend web applications and API's. Skilled in solving problems with HTML, CSS, JavaScript, Node, Express framework, and React. <br>
 
-  My prior experiences motivate me to use technology as a positive tool for change.
-
-  You can find out more about me here... <br>
+ I'm currently targeting backend and full stack roles on diverse teams of passionate engineers.
 
 <p>
 
@@ -164,8 +161,7 @@
       <p>&nbsp;<img align="center"
           src="https://github-readme-stats.vercel.app/api?username=isaiahsimon&theme=gotham&show_icons=true&locale=en"
           alt="isaiahsimon" /></p>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaiahsimon&theme=gotham&"
-          alt="isaiahsimon" /></p>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaiahsimon&theme=gotham&%22alt=%22isaiahsimon" /></p>
     </td>
   </tr>
 </table>
