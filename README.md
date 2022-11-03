@@ -1,4 +1,4 @@
-<img src="https://github.com/IsaiahSimon/IsaiahSimon/blob/main/images/banner_full.gif" width="100%">
+<img src="https://github.com/IsaiahSimon/IsaiahSimon/blob/main/images/banner_full_neon.gif" width="100%">
 
 <p>
   Hi 👋,
